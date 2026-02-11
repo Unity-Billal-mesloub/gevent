@@ -2,8 +2,8 @@
  gevent
 ========
 
-.. image:: https://github.com/gevent/gevent/workflows/gevent%20testing/badge.svg
-   :target: https://github.com/gevent/gevent/actions
+.. image:: https://github.com/Unity-Billal-mesloub/gevent/workflows/gevent%20testing/badge.svg
+   :target: https://github.com/Unity-Billal-mesloub/gevent/actions
 
 .. image:: https://ci.appveyor.com/api/projects/status/bqxl88yhpho223jg?svg=true
    :target: https://ci.appveyor.com/project/denik/gevent
@@ -21,7 +21,7 @@ information on the blog_ and `twitter (@gevent)`_.
 
 .. include:: docs/install.rst
 
-.. _bug tracker: https://github.com/gevent/gevent/issues
+.. _bug tracker: https://github.com/Unity-Billal-mesloub/gevent/issues
 .. _mailing list: http://groups.google.com/group/gevent
 .. _blog: https://dev.nextthought.com/blog/categories/gevent.html
 .. _twitter (@gevent): http://twitter.com/gevent
