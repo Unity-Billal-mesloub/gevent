@@ -23,5 +23,4 @@ information on the blog_ and `twitter (@gevent)`_.
 
 .. _bug tracker: https://github.com/Unity-Billal-mesloub/gevent/issues
 .. _mailing list: http://groups.google.com/group/gevent
-.. _blog: https://dev.nextthought.com/blog/categories/gevent.html
 .. _twitter (@gevent): http://twitter.com/gevent
